@@ -1,4 +1,5 @@
-![Tornado](/picture/tornado.jpg)
+
+<img src="/picture/tornado.jpg" width = "300" height = "200" alt="图片名称" align=center />
 
 ### 索引页
 ### 第一章：引言
