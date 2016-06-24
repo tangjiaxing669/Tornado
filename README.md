@@ -1,4 +1,4 @@
-![Tornado](http://demo.pythoner.com/itt2zh/static/images/cover.jpg)
+![Tornado](/picture/tornado.jpg)
 
 ### 索引页
 ### 第一章：引言
