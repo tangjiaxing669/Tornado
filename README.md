@@ -1,5 +1,3 @@
-<img src="/picture/tornado.jpg" width = "400" height = "500" alt="Tornado" align=left />
-
 ### 索引页
 ### 第一章：引言
 ### 第二章：表单和模板
