@@ -1,5 +1,5 @@
 
-<img src="/picture/tornado.jpg" width = "300" height = "200" alt="图片名称" align=center />
+<img src="/picture/tornado.jpg" width = "300" height = "500" alt="图片名称" align=center />
 
 ### 索引页
 ### 第一章：引言
