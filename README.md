@@ -1,5 +1,4 @@
-
-<img src="/picture/tornado.jpg" width = "400" height = "500" alt="图片名称" align=left />
+<img src="/picture/tornado.jpg" width = "400" height = "500" alt="Tornado" align=center />
 
 ### 索引页
 ### 第一章：引言
