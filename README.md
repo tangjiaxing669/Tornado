@@ -1,4 +1,4 @@
-<img src="http://demo.pythoner.com/itt2zh/static/images/cover.jpg" width="100" align=left />
+<img src="./picture/tornado.png" width="100" align=left />
 > 参考 http://demo.pythoner.com/itt2zh/index.html
 
 > 文章有所改动，有参杂个人理解。
